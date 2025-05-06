@@ -1,7 +1,4 @@
 # Pandas_Project_3
-This project analyzed the correlation between greenhouse gases and rising sea levels based on public data. I examined government and corporate responses to greenhouse gas emissions.
-
-# Pandas_Project_2
 
 - 본 프로젝트에서는 공공 데이터를 기반으로 온실가스와 해수면 상승 간의 상관관계를 분석하였습니다.
 - 저는 온실가스 배출에 대한 정부와 기업의 대응 방안을 분석했습니다.
