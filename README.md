@@ -1,2 +1,33 @@
 # Pandas_Project_3
 This project analyzed the correlation between greenhouse gases and rising sea levels based on public data. I examined government and corporate responses to greenhouse gas emissions.
+
+# Pandas_Project_2
+
+- 본 프로젝트에서는 공공 데이터를 기반으로 온실가스와 해수면 상승 간의 상관관계를 분석하였습니다.
+- 저는 온실가스 배출에 대한 정부와 기업의 대응 방안을 분석했습니다.
+
+## 🔧 사용한 기술
+
+- Python
+- Pandas
+- Matplotlib
+
+## 📂 활용 데이터셋 출처
+
+- 공공데이터포털 : 연도별 전기차 충전소 설치 수 데이터
+- 서울 열린데이터 광장 : 연료별 자동차 누적 등록건수
+- SK / GS 리테일 ESG 경영 보고서 데이터
+- 오마이뉴스 [기업 부담 가중시키는 환경 법안 쏟아진다.] : 키워드별 기후에너지 관련 법안 발의(건) 데이터
+
+## 📂 파일 설명 
+
+- project.py : 연료별 자동차 누적 등록건수 데이터 분석 / 환경 관련 법안 발의 데이터 시각화
+- project2.py : 연료별 전기차 충전소 설치 수 데이터 분석 
+- project3.py : 기업 ESG 경영 데이터 파이 차트 시각화 
+- project4.py : 기업 ESG 경영 데이터 분석
+
+## 🎯 프로젝트 목표 
+
+- 판다스 라이브러리를 활용한 데이터 분석
+- Matplotlib 라이브러리를 활용한 시각화
+- 온실가스로 인한 환경 악화의 심각성 강조 및 정부/기업적 차원의 환경 문제 대응 현황 확인
